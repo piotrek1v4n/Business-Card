@@ -30,7 +30,7 @@ Hey! My name is Piotr Iwanicki and I have a bachelor's degree in Journalism & So
 
 # Tools
 
--   [Test & Feedback](https://chrome.google.com/webstore/detail/test-feedback/gnldpbnocfnlkkicnaplmkaphfdnlplb) - A handy tool for web testing
+-   [Test & Feedback](https://chrome.google.com/webstore/detail/test-feedback/gnldpbnocfnlkkicnaplmkaphfdnlplb) - A handy tool for testing
 
 -   [Postman](http://www.postman.com)
 
