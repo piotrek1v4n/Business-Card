@@ -66,6 +66,7 @@ Hey! My name is Piotr Iwanicki and I have a bachelor's degree in Journalism & So
 
 ![0000](https://user-images.githubusercontent.com/112309791/187177295-f4e85d6d-e2d9-4e7d-b98d-be54cf4ec128.jpg)
 ![001](https://user-images.githubusercontent.com/112309791/187177311-a8c999dd-123e-42fa-a781-cacd23f7cd8f.jpg)
+![14692173_1289848924393621_5582957600710412370_o](https://user-images.githubusercontent.com/112309791/187177705-6f474b7c-9330-4fdf-acd8-67996bbd5859.jpg)
 ![53400510_2345748728803630_7489048832387317760_n](https://user-images.githubusercontent.com/112309791/187177325-5964e247-fefa-4615-a907-838aa8af2368.jpg)
 ![89155757_3069197213125441_5562055705713704960_n](https://user-images.githubusercontent.com/112309791/187177344-fb6946ce-2a04-42a6-bd80-326fb91e8828.jpg)
 ![48405022_2225924537452717_1165000292672995328_n](https://user-images.githubusercontent.com/112309791/187177381-72e600eb-371b-4172-9cc0-c619abb2c0f2.jpg)
