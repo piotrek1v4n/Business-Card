@@ -24,6 +24,8 @@ Hey! My name is Piotr and I have a bachelor's degree in Journalism & Social Comm
 
 -   DevTools
 
+-   Kibana - worked a little bit with that one
+
 -   Software testing - That I've been doing for quite a while, as a L2 support
 
 -   Searching for answers - let's be honest, this *is a skill* in this day and age
