@@ -1,5 +1,5 @@
 # Who am I
-#### (I wish I'd be Spider-Man)
+#### (I'm not Batman)
 Hey! My name is Piotr and I have a bachelor's degree in Journalism & Social Communication, I also studied Media Marketing & PR. So what am I doing here you ask? Well I always had a little bit of a technical side in me, and this all bloomed when I was working as L2 support. So right now I'm learning software testing, Java programming and many more cool IT stuff. Here I will be sharing my experience, gained knowledge and skills.
 
 # Courses
