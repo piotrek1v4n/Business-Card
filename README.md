@@ -8,6 +8,8 @@ Hey! My name is Piotr and I have a bachelor's degree in Journalism & Social Comm
 
 # Certificates
 
+-   [QA Course at SDA](https://app.diplomasafe.com/pl-PL/diploma/d7cc7f87d1b34e5101b074ce25d85a7a6505f92e1)
+
 -   [FCE](https://www.britishcouncil.pl/egzaminy/cambridge/poziom/first) - I know my english
 
 -   [GetThere admin](https://www.getthere.com/)
