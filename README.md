@@ -10,11 +10,14 @@ Hey! My name is Piotr and I have a bachelor's degree in Journalism & Social Comm
 
 -   [QA Course at SDA](https://app.diplomasafe.com/pl-PL/diploma/d7cc7f87d1b34e5101b074ce25d85a7a6505f92e1)
 
+-   [Postam](https://www.udemy.com/certificate/UC-793f03de-09ca-4aa9-aaf9-4cc9edee05db/)
+
 -   [FCE](https://www.britishcouncil.pl/egzaminy/cambridge/poziom/first) - I know my english
 
 -   [GetThere admin](https://www.getthere.com/)
 
 -   [GetThere PNR script](https://www.getthere.com/)
+   
 
 # Tech skills
 
